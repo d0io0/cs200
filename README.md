@@ -1,7 +1,7 @@
 # Concept-Simplifier-200
 ---
 
-A python program that scrapes information from wikipedia on a chosen topic and summarizes the content so that the info is optimized for use.
+A python program that scrapes information from wikipedia on a chosen topic and summarizes/condenses the content so that the info is optimized for use.
 
 ---- 
 ## Installation 
